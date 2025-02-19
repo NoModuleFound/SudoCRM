@@ -6,8 +6,7 @@
 
 ## 🛠 Tech Stack  
 
-- **Frontend:** React, Tailwind CSS  
-- **Backend:** Node.js, Express  
+- **Backend:** Node.js, Express
 - **Database:** PostgreSQL / MongoDB / Google Sheets
 - **Authentication:** JWT  
 - **Deployment:** Docker
