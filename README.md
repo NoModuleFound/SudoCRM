@@ -7,7 +7,7 @@
 ## 🛠 Tech Stack  
 
 - **Backend:** Node.js, Express
-- **Database:** PostgreSQL / MongoDB / Google Sheets
+- **Database:** PostgreSQL / Google Sheets
 - **Authentication:** JWT  
 - **Deployment:** Docker
 

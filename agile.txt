@@ -1,0 +1,5 @@
+# Requirements
+
+- API for User friendly platform (Mobile, Web, Telegram Bot)
+- Google Sheet Management (Roles)
+- Autogenerate the template for businesses (Next stage)
