@@ -1,0 +1,14 @@
+pydantic_settings
+google
+oauth2client
+pytz
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+uvicorn
+fastapi
+pydantic['email']
+pyjwt
+bcrypt
+greenlet
+cryptography

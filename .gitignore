@@ -1,0 +1,16 @@
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+*.pyc
+__pycache__/
+
+# db
+*.sqlite
+
+.DS_Store
+certs/
+gsheets.json
